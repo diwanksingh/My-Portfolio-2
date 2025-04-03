@@ -93,7 +93,7 @@ const About = () => {
               alt="Diwank's Location"
               width={250}
               height={250}
-              className=" w-full h-[180px] md:h-full object-contain rounded-full lg:h-full "
+              className=" w-full h-[160px] md:h-full object-contain rounded-full lg:h-full "
               priority
             />
             <div className="absolute top-[50%] left-[50%] transform -translate-x-1/2 -translate-y-1/2 h-6 w-6 bg-purple-300 rounded-full animate-ping"></div>

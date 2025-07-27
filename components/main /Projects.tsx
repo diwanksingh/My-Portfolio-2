@@ -52,6 +52,32 @@ const Projects = () => {
             },
           ]}
         />
+         <Projectcard
+          src="/mock-mate.png"
+          tittle="Mock-Mate"
+          description="platform for users to prepare for interviews, customize mock sessions, and gather actionable feedback for continuous growth. our tools are designed to support your journey toward success."
+          link="https://mock-mate-three-gilt.vercel.app/"
+          slideData={[
+            {
+              title: "Give Mock-Mate a try!",
+             src: "/mm1.png",
+            },
+            {
+              title: "Create your own mock interview",
+            src: "/mm2.png",
+            },
+            {
+              title: "Real-time interview with feedback!",
+             src: "/mm-3.png",
+            },
+            {
+              title: "Try it out today!",
+             src: "/mm4.png",
+            },
+           
+            
+          ]}
+        />
         <Projectcard
           src="/writeup.png"
           tittle="Writeup"

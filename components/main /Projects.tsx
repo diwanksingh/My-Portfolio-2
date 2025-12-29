@@ -86,23 +86,23 @@ const Projects = () => {
           slideData={[
             {
               title: "Find best lenses!",
-             src: "/Lens5.png",
+             src: "/Lensiq5.png",
             },
             {
               title: "Human image to eyewear search",
-            src: "/Lens4.png",
+            src: "/Lensiq4.png",
             },
             {
               title: "From image to results",
-             src: "/Lens3.png",
+             src: "/Lensiq3.png",
             },
              {
               title: "Apply filters to narrow results",
-             src: "/Lens4.png",
+             src: "/Lensiq4.png",
             },
             {
               title: "101 frame options",
-             src: "/Lens5.png",
+             src: "/Lensiq5.png",
             },
            
            

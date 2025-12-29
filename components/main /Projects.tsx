@@ -98,11 +98,11 @@ const Projects = () => {
             },
              {
               title: "Apply filters to narrow results",
-             src: "/Lensiq4.png",
+             src: "/Lensiq2.png",
             },
             {
               title: "101 frame options",
-             src: "/Lensiq5.png",
+             src: "/Lensiq1.png",
             },
            
            

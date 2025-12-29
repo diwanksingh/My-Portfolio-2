@@ -77,6 +77,37 @@ const Projects = () => {
            
             
           ]}
+        />    
+        <Projectcard
+          src="/LensIQ.png"
+          tittle="LensIQ"
+          description="An end-to-end AI powered visual search engine that finds visually similar eyewear using deep learning embeddings and vector similarity search."
+          link="https://visualsearch3831.netlify.app/"
+          slideData={[
+            {
+              title: "Find best lenses!",
+             src: "/Lens5.png",
+            },
+            {
+              title: "Human image to eyewear search",
+            src: "/Lens4.png",
+            },
+            {
+              title: "From image to results",
+             src: "/Lens3.png",
+            },
+             {
+              title: "Apply filters to narrow results",
+             src: "/Lens4.png",
+            },
+            {
+              title: "101 frame options",
+             src: "/Lens5.png",
+            },
+           
+           
+            
+          ]}
         />
         <Projectcard
           src="/writeup.png"

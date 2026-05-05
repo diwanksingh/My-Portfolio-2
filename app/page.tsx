@@ -1,5 +1,6 @@
 
 import About from '@/components/main /About';
+import Experience from '@/components/main /Experience';
 import Hero from '@/components/main /Hero'
 import Projects from '@/components/main /Projects'
 import Skills from '@/components/main /Skills'
@@ -24,7 +25,9 @@ function Page() {
       
         <div className="bg-black relative z-10">
           <Skills />
-          
+
+          <Experience />
+
           <Projects />
           <StarsBackground className='-z-10 pointer-events-none' />
         </div>

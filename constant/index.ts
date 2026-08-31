@@ -149,7 +149,7 @@ export const Experiences: Experience[] = [
     company: "Xportel",
     type: "Full Time",
     dates: "Apr 2026 - Present",
-    duration: "2 mos",
+    duration: "5 mos",
     location: "Delhi, India \u00b7 On-site",
     bullets: [],
   },

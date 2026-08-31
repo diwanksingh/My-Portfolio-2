@@ -147,7 +147,7 @@ export const Experiences: Experience[] = [
   {
     role: "Software Engineer",
     company: "Xportel",
-    type: "Internship",
+    type: "Full Time",
     dates: "Apr 2026 - Present",
     duration: "2 mos",
     location: "Delhi, India \u00b7 On-site",
